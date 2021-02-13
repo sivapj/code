@@ -1,0 +1,18 @@
+.Content {
+    margin: 20px auto;
+    width: 400px;
+  
+}
+.Content .Reg {
+    opacity: 0.4;
+    cursor: pointer;
+    margin-left:125px;
+}
+.Content .Reg::after {
+    content: '?';
+}
+.Content .Para {
+    color: rgb(39, 155, 39);
+    opacity: 0.8;
+    cursor: pointer;
+}

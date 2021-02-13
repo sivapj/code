@@ -1,0 +1,39 @@
+.Form {
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2fr,1fr);
+    grid-gap: 10px;
+    
+}
+.Form label {  
+    margin: 10px;
+    text-align: center;
+}
+.Form input {
+    padding: 5px;
+    margin-left: 15px;
+    background-color: rgb(217, 230, 217);
+    border: none;
+}
+.Form textarea {
+    padding: 5px;
+    margin-left: 15px;
+    background-color: rgb(217, 230, 217);
+    border: none;
+}
+.Form select {
+    padding: 5px;
+    margin-left: 15px;
+    background-color: rgb(217, 230, 217);
+    border: none;
+}
+.Form button {
+    display: inline-block;
+    width: 100px;
+    padding: 5px;
+    margin: auto;
+    background-color: indigo;
+    color: #fff;
+    border: none;
+
+}

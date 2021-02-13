@@ -1,0 +1,13 @@
+.Username {
+    margin:20px auto;
+    width: 150px;
+   
+}
+.Username input {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 6px;
+    padding: 5px;
+    border: none;
+    background-color: lightgreen;
+}
